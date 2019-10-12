@@ -11,7 +11,9 @@ You will be running your mysql instance inside this container, so you can alter 
 
 ## Run docker compose
 
-Placed in this directory run
+Open a new terminal window. For macosx and linux you can open the terminal application. For windows you have to open the Command Prompt or PowerShell application.
+
+Placed in **this directory** run
 
 ```sh
 docker-compose build
